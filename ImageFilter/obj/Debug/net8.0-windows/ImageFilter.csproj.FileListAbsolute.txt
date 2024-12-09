@@ -1,0 +1,17 @@
+D:\C# dersleri\ImageFilter\ImageFilter\bin\Debug\net8.0-windows\ImageFilter.exe
+D:\C# dersleri\ImageFilter\ImageFilter\bin\Debug\net8.0-windows\ImageFilter.deps.json
+D:\C# dersleri\ImageFilter\ImageFilter\bin\Debug\net8.0-windows\ImageFilter.runtimeconfig.json
+D:\C# dersleri\ImageFilter\ImageFilter\bin\Debug\net8.0-windows\ImageFilter.dll
+D:\C# dersleri\ImageFilter\ImageFilter\bin\Debug\net8.0-windows\ImageFilter.pdb
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.Form1.resources
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.csproj.GenerateResource.cache
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.AssemblyInfoInputs.cache
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.AssemblyInfo.cs
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.csproj.CoreCompileInputs.cache
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.dll
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\refint\ImageFilter.dll
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.pdb
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.genruntimeconfig.cache
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ref\ImageFilter.dll
+D:\C# dersleri\ImageFilter\ImageFilter\obj\Debug\net8.0-windows\ImageFilter.Properties.Resources.resources
